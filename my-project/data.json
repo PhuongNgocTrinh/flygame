@@ -1,0 +1,2677 @@
+{
+  "category": [
+    "action",
+    "Role-Playing",
+    "Strategy",
+    "Adventure",
+    "Simulation",
+    "Sports-Racing"
+  ],
+  "panigation": [
+    "&startAt=0&endAt=8",
+    "&startAt=8&endAt=15",
+    "&startAt=17&endAt=24",
+    "&startAt=28&endAt=35"
+  ],
+  "listItems1": [
+    {
+      "img": "/imgListItem/img1.png",
+      "name": "Sifu",
+      "_id": 34
+    },
+    {
+      "img": "/imgListItem/img3.png",
+      "name": "Destiny 2",
+      "_id": 33
+    },
+    {
+      "img": "/imgListItem/img.png",
+      "name": "Cyberpunk 2077",
+      "_id": 22
+    },
+    {
+      "img": "/imgListItem/img2.png",
+      "name": "Resident Evil Village",
+      "_id": 22
+    },
+    {
+      "img": "/imgListItem/img4.png",
+      "name": "Tiny Tina's Wonderlands",
+      "_id": 27
+    }
+  ],
+  "listItems2": [
+    {
+      "img": "/imgListItem/img5.png",
+      "name": "Dying Light 2 Stay Human",
+      "_id": 7
+    },
+    {
+      "img": "/imgListItem/img6.png",
+      "name": "OlliOlli",
+      "_id": 31
+    },
+    {
+      "img": "/imgListItem/img7.png",
+      "name": "F1® Manager 2022",
+      "_id": 24
+    },
+    {
+      "img": "/imgListItem/img8.png",
+      "name": "Crash Bandicoot™ 4: It’s About Time",
+      "_id": 22
+    },
+    {
+      "img": "/imgListItem/img9.png",
+      "name": "Marvel's Avengers",
+      "_id": 27
+    }
+  ],
+  "listItems3": [
+    {
+      "img": "/imgListItem/img10.png",
+      "name": "EA SPORTS™ FIFA 23",
+      "_id": 14,
+      "price": 45,
+      "year": "30/9/2022"
+    },
+    {
+      "img": "/imgListItem/img11.png",
+      "name": "The Callisto Protocol",
+      "_id": 15,
+      "price": 78,
+      "year": "02/12/2022"
+    },
+    {
+      "img": "/imgListItem/img12.png",
+      "name": "Call of Duty®: Modern Warfare® 2",
+      "_id": 19,
+      "price": 60,
+      "year": "12/10/2022"
+    },
+    {
+      "img": "/imgListItem/img13.png",
+      "name": "God of War™ Ragnarök",
+      "_id": 20,
+      "year": "9/11/2022",
+      "price": 70
+    },
+    {
+      "img": "/imgListItem/img14.png",
+      "name": "Suicide Squad: Kill the Justice League",
+      "_id": 21,
+      "price": 55,
+      "year": "5/8/2020"
+    }
+  ],
+  "sliceListItem": [
+    {
+      "category": "Simulation",
+      "_id": 19,
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Call of Duty®: Modern Warfare® 2",
+      "imgItem": "/images/callofduty.png",
+      "price": 60,
+      "year": "12/10/2022"
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 20,
+      "mac": "fa-apple",
+      "imgItem": "/images/godofwar.png",
+      "year": "9/11/2022",
+      "price": 70,
+
+      "base": "BASE GAME",
+      "name": "God of War™ Ragnarök"
+    },
+    {
+      "category": "Simulation",
+      "_id": 21,
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Suicide Squad: Kill the Justice League",
+      "imgItem": "/images/suicide.png",
+      "price": 55,
+      "year": "5/8/2020"
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 22,
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Resident Evil Village",
+      "imgItem": "/images/resident.png",
+      "price": 44,
+      "year": "7/5/2021"
+    },
+    {
+      "category": "Simulation",
+      "_id": 23,
+      "edit": "EDITION",
+      "name": "Apex Legends™ PS5™ ",
+      "imgItem": "/images/apex.png",
+      "price": 40,
+      "year": "11/9/2021"
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 24,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "F1® Manager 2022",
+      "imgItem": "/images/manager.png",
+      "price": 50,
+      "year": "25/8/2022"
+    },
+
+    {
+      "category": "Sports-Racing",
+      "_id": 25,
+      "edit": "EDITION",
+      "name": "Soul Hackers 2",
+      "imgItem": "/images/soul.png",
+      "price": 70,
+      "year": "2/2/2022"
+    },
+    {
+      "category": "Strategy",
+      "_id": 26,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Genshin Impact",
+      "imgItem": "/images/genshin.png",
+      "price": 102,
+      "year": "21/2/2021"
+    },
+    {
+      "category": "Adventure",
+      "_id": 27,
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Tiny Tina's Wonderlands",
+      "imgItem": "/images/tinytitna.png",
+      "price": 90,
+      "year": "25/3/2022"
+    },
+    {
+      "category": "Strategy",
+      "_id": 28,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Cyberpunk 2077",
+      "imgItem": "/images/cyber.png",
+      "price": 80,
+      "year": "15/2/2022"
+    },
+    {
+      "category": "Strategy",
+      "_id": 29,
+      "edit": "EDITION",
+      "name": "Inscryption",
+      "imgItem": "/images/inscry.png",
+      "price": 150,
+      "year": "30/8/2022"
+    }
+  ],
+  "gamefree": [
+    {
+      "id": 1,
+      "img": "/imgFreeGame/imgFree1.png",
+      "name": "Filament",
+      "freenow": "Free Now - Nov 10 at 11:00 PM"
+    },
+    {
+      "id": 2,
+      "img": "/imgFreeGame/imgFree2.png",
+      "name": "Rising Storm 2: Vietnam",
+      "freenow": "Free Now - Nov 10 at 11:00 PM"
+    },
+    {
+      "id": 3,
+      "img": "/imgFreeGame/imgFree3.png",
+      "name": "Alba - A Wildlife Adventure",
+      "freenow": "Free Nov 10 - Nov 17"
+    },
+    {
+      "id": 4,
+      "img": "/imgFreeGame/imgFree4.png",
+      "name": "Shadow Tactics: Blades of the Shogu",
+      "freenow": "Free Nov 10 - Nov 17"
+    }
+  ],
+  "items": [
+    {
+      "category": "action",
+      "_id": 1,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "ending ring",
+      "imgItem": "/images/endingring.png",
+      "price": 130,
+      "year": "25/02/2022",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "player": 1,
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "ps": "Offline play enabled",
+      "detail": {
+        "nameGame": "ending ring",
+        "title": "ending ring™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgEndingRing/baner.png",
+
+        "baner": "/imgEndingRing/baner2.png",
+        "tabInfo": "/imgInfoGame/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgEndingRing/edrF.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgEndingRing/edrF1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgEndingRing/edrF2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgEndingRing/edrF3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgEndingRing/noFigure.png" },
+          { "img": "/imgEndingRing/noFigure1.png" },
+          { "img": "/imgEndingRing/noFigure2.png" },
+          { "img": "/imgEndingRing/noFigure3.png" },
+          { "img": "/imgEndingRing/noFigure4.png" },
+          { "img": "/imgEndingRing/noFigure5.png" },
+          { "img": "/imgEndingRing/noFigure6.png" },
+          { "img": "/imgEndingRing/noFigure7.png" }
+        ],
+        "news": [
+          { "img": "/imgEndingRing/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 2,
+
+      "mac": "fa-apple",
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "horizon",
+      "imgItem": "/images/horizon.png",
+      "price": 150,
+      "year": "5/05/2022",
+      "ps": "Offline play enabled",
+      "player": 1,
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Horizon Forbidden West",
+        "title": "Horizon Forbidden West™(English/ Chinese/ Korean/ Thai Ver.)",
+        "video": "/videoGame/horizon.mp4",
+        "baner": "/imgInfoGame/horizon.png",
+
+        "tabInfo": "/imgInfoGame/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgInfoGame/horizonF.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgInfoGame/horizonF1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgInfoGame/horizonF2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgInfoGame/horizonF3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "figure": [
+          {
+            "img": "/imgInfoGame/avthorizon.png",
+            "name": "Aloy",
+            "info": "Aloy is the greatest machine hunter in the world of Horizon. Strong, independent, clever and compassionate, she started off as a motherless outcast and rose up to be a champion for all humankind. Along with all that, she’s got a powerful drive to unravel the mysteries of the Forbidden West, stop the blight, and save the planet."
+          },
+          {
+            "img": "/imgInfoGame/avthorizon1.png",
+            "name": "Sylens",
+            "info": "Little is truly known about Sylens. A wandering scholar, sage and warrior, his past is a series of whispers, misdirections, and enigmas – all of which he encourages. As long as he can stay unseen in the shadows, he can freely pursue his obsession: learning everything he can about the origins of man and machine."
+          },
+          {
+            "img": "/imgInfoGame/avthorizon2.png",
+            "name": "Erend",
+            "info": "Erend is one of Aloy’s loyal companions. He is the Captain of the Vanguard, an elite group of warriors from the Oseram tribe. He can be courageous, humorous, and at times, self-effacing. But beneath that burly exterior is a good heart and a vulnerable soul that Aloy wants to protect."
+          },
+          {
+            "img": "/imgInfoGame/avthorizon3.png",
+            "name": "Varl",
+            "info": "A warrior from the Nora tribe, Varl is one of Aloy’s returning companions in Horizon Forbidden West. Based on the events from the end of Horizon Zero Dawn, he, like many in the tribe, sees Aloy as the Anointed, a religious figure from the Nora’s beliefs who he is duty-bound to help. But more than that, he is kind and caring, and worries about Aloy as a person and the weight of the burden she carries."
+          },
+          {
+            "img": "/imgInfoGame/avthorizon4.png",
+            "name": "Weaik",
+            "info": "A warrior from the Nora tribe, Varl is one of Aloy’s returning companions in Horizon Forbidden West. Based on the events from the end of Horizon Zero Dawn, he, like many in the tribe, sees Aloy as the Anointed, a religious figure from the Nora’s beliefs who he is duty-bound to help. But more than that, he is kind and caring, and worries about Aloy as a person and the weight of the burden she carries."
+          },
+          {
+            "img": "/imgInfoGame/avthorizon5.png",
+            "name": "Elaen",
+            "info": "A warrior from the Nora tribe, Varl is one of Aloy’s returning companions in Horizon Forbidden West. Based on the events from the end of Horizon Zero Dawn, he, like many in the tribe, sees Aloy as the Anointed, a religious figure from the Nora’s beliefs who he is duty-bound to help. But more than that, he is kind and caring, and worries about Aloy as a person and the weight of the burden she carries."
+          }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "action",
+      "_id": 3,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "name": "Stray",
+      "imgItem": "/images/stray.png",
+      "price": 70,
+      "year": "19/7/2022",
+      "player": 1,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Stray",
+        "title": "Stray™(English)",
+        "replaceVideo": "/imgStray/baner.png",
+        "baner": "/imgStray/baner2.png",
+        "tabInfo": "/imgStray/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgStray/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgStray/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgStray/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgStray/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgStray/img.png" },
+          { "img": "/imgStray/img1.png" },
+          { "img": "/imgStray/img2.png" },
+          { "img": "/imgStray/img3.png" },
+          { "img": "/imgStray/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgStray/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 4,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "imgItem": "/images/ghost.png",
+      "price": 90,
+      "year": "19/08/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Shadow Tactics: Blades of the Shogun",
+        "title": "Shadow Tactics: Blades of the Shogun",
+        "replaceVideo": "/imgMadden/baner.png",
+        "baner": "/imgMadden/baner2.png",
+        "tabInfo": "/imgMadden/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgMadden/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgMadden/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgMadden/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgMadden/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgMadden/img.png" },
+          { "img": "/imgMadden/img1.png" },
+          { "img": "/imgMadden/img2.png" },
+          { "img": "/imgMadden/img3.png" },
+          { "img": "/imgMadden/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgMadden/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "action",
+      "_id": 5,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "name": "UNCHARTED™: Legacy of Thieves Collection",
+      "imgItem": "/images/uncharted.png",
+      "price": 88,
+      "year": "28/1/2022",
+      "player": 2,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "UNCHARTED: Legacy of Thieves Collection™",
+        "title": "UNCHARTED: Legacy of Thieves Collection™",
+        "video": "/videoGame/uncharted.mp4",
+        "baner": "/imgUNCHARTED/baner2.png",
+        "tabInfo": "/imgUNCHARTED/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgUNCHARTED/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgUNCHARTED/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgUNCHARTED/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgUNCHARTED/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgUNCHARTED/img.png" },
+          { "img": "/imgUNCHARTED/img1.png" },
+          { "img": "/imgUNCHARTED/img2.png" },
+          { "img": "/imgUNCHARTED/img3.png" },
+          { "img": "/imgUNCHARTED/img4.png" },
+          { "img": "/imgUNCHARTED/img5.png" },
+          { "img": "/imgUNCHARTED/img6.png" }
+        ],
+        "news": [
+          { "img": "/imgUNCHARTED/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 6,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "The Last of Us™ Part I",
+      "imgItem": "/images/thelastofus.png",
+      "price": 47,
+      "year": "2/9/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "The Last of Us™ Part I",
+        "title": "The Last of Us™ Part I (English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgTheLast/baner.png",
+        "baner": "/imgTheLast/baner2.png",
+        "tabInfo": "/imgTheLast/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgTheLast/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgTheLast/features4.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgTheLast/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgTheLast/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgTheLast/img.png" },
+          { "img": "/imgTheLast/img1.png" },
+          { "img": "/imgTheLast/img2.png" },
+          { "img": "/imgTheLast/img3.png" },
+          { "img": "/imgTheLast/img4.png" },
+          { "img": "/imgTheLast/img5.png" },
+          { "img": "/imgTheLast/img6.png" }
+        ],
+        "news": [
+          { "img": "/imgTheLast/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "action",
+      "_id": 7,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Dying Light 2 Stay Human",
+      "imgItem": "/images/dying.png",
+      "price": 85,
+      "year": "4/2/2022",
+      "player": 1,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Dying Light 2 Stay Human",
+        "title": "Dying Light 2 Stay Human (English)",
+        "replaceVideo": "/imgDying/baner.png",
+        "baner": "/imgDying/baner2.png",
+        "tabInfo": "/imgDying/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgDying/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgDying/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgDying/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgDying/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgDying/img.png" },
+          { "img": "/imgDying/img1.png" },
+          { "img": "/imgDying/img2.png" },
+          { "img": "/imgDying/img3.png" },
+          { "img": "/imgDying/img4.png" },
+          { "img": "/imgDying/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgDying/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 8,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Filament",
+      "imgItem": "/images/legostarwars.png",
+      "price": 125,
+      "year": "22/9/2021",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Filament",
+        "title": "Filament (English)",
+        "replaceVideo": "/imgLego/baner.png",
+        "baner": "/imgLego/baner2.png",
+        "tabInfo": "/imgLego/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgLego/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgLego/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgLego/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgLego/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgLego/img.png" },
+          { "img": "/imgLego/img1.png" },
+          { "img": "/imgLego/img2.png" },
+          { "img": "/imgLego/img3.png" },
+          { "img": "/imgLego/img4.png" },
+          { "img": "/imgLego/img5.png" },
+          { "img": "/imgLego/img6.png" },
+          { "img": "/imgLego/img7.png" }
+        ],
+        "news": [
+          { "img": "/imgLego/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "action",
+      "_id": 9,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "name": "Ghostwire: Tokyo",
+      "imgItem": "/images/ghostwire.png",
+      "price": 54,
+      "year": "12/6/2021",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "LEGO® Star Wars: The Skywalker Saga",
+        "title": "LEGO® Star Wars: The Skywalker Saga (English)",
+        "replaceVideo": "/imgGhost/baner.png",
+        "baner": "/imgGhost/baner2.png",
+        "tabInfo": "/imgGhost/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgGhost/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgGhost/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgGhost/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgGhost/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgGhost/img.png" },
+          { "img": "/imgGhost/img1.png" },
+          { "img": "/imgGhost/img2.png" },
+          { "img": "/imgGhost/img3.png" },
+          { "img": "/imgGhost/img4.png" },
+          { "img": "/imgGhost/img5.png" },
+          { "img": "/imgGhost/img6.png" }
+        ],
+        "news": [
+          { "img": "/imgGhost/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 10,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Gran Turismo® 7",
+      "imgItem": "/images/grand.png",
+      "price": 24,
+      "year": "22/9/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Horizon Forbidden West",
+        "title": "Horizon Forbidden West™(English/ Chinese/ Korean/ Thai Ver.)",
+        "video": "/videoGame/gran.mp4",
+        "baner": "/imgGran/baner2.png",
+
+        "tabInfo": "/imgGran/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgGran/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgGran/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgGran/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgGran/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "action",
+      "_id": 11,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "name": "Saints Row",
+      "imgItem": "/images/saintsrow.png",
+      "price": 42,
+      "year": "23/8/2022",
+      "player": 2,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Horizon Forbidden West",
+        "title": "Horizon Forbidden West™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgSaint/baner.png",
+        "baner": "/imgSaint/baner2.png",
+
+        "tabInfo": "/imgSaint/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgSaint/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgSaint/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgSaint/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgSaint/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgSaint/img.png" },
+          { "img": "/imgSaint/img1.png" },
+          { "img": "/imgSaint/img2.png" },
+          { "img": "/imgSaint/img3.png" },
+          { "img": "/imgSaint/img4.png" },
+          { "img": "/imgSaint/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Role-Playing",
+      "_id": 12,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "DEATHLOOP",
+      "imgItem": "/images/deathloop.png",
+      "price": 25,
+      "year": "14/9/2021",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "DEATHLOOP",
+        "title": "DEATHLOOP™(English/ Chinese)",
+        "replaceVideo": "/imgDeathloop/baner.png",
+        "baner": "/imgDeathloop/baner2.png",
+
+        "tabInfo": "/imgDeathloop/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgDeathloop/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgDeathloop/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgDeathloop/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgDeathloop/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgDeathloop/img.png" },
+          { "img": "/imgDeathloop/img1.png" },
+          { "img": "/imgDeathloop/img2.png" },
+          { "img": "/imgDeathloop/img3.png" },
+          { "img": "/imgDeathloop/img4.png" },
+          { "img": "/imgDeathloop/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 13,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Hogwarts Legacy",
+      "imgItem": "/images/hogwarts.png",
+      "price": 34,
+      "year": "10/2/2023",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Hogwarts Legacy",
+        "title": "Hogwarts Legacy™(English/ Chinese/ Korean/ Thai Ver.)",
+
+        "replaceVideo": "/imgHogwartsLegacy/baner.png",
+        "baner": "/imgHogwartsLegacy/baner2.png",
+
+        "tabInfo": "/imgHogwartsLegacy/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgHogwartsLegacy/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgHogwartsLegacy/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgHogwartsLegacy/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgHogwartsLegacy/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgHogwartsLegacy/img.png" },
+          { "img": "/imgHogwartsLegacy/img1.png" },
+          { "img": "/imgHogwartsLegacy/img2.png" },
+          { "img": "/imgHogwartsLegacy/img3.png" },
+          { "img": "/imgHogwartsLegacy/img4.png" },
+          { "img": "/imgHogwartsLegacy/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 14,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "EA SPORTS™ FIFA 23",
+      "imgItem": "/images/easports.png",
+      "price": 45,
+      "year": "30/9/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "EA SPORTS™ FIFA 23",
+        "title": "EA SPORTS™ FIFA 23™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgFiFa/baner.png",
+        "baner": "/imgFiFa/baner2.png",
+        "tabInfo": "/imgFiFa/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgFiFa/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgFiFa/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgFiFa/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgFiFa/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgFiFa/img.png" },
+          { "img": "/imgFiFa/img1.png" },
+          { "img": "/imgFiFa/img2.png" },
+          { "img": "/imgFiFa/img3.png" },
+          { "img": "/imgFiFa/img4.png" },
+          { "img": "/imgFiFa/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 15,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "The Callisto Protocol",
+      "imgItem": "/images/thecallisto.png",
+      "price": 78,
+      "year": "02/12/2022",
+      "player": 2,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "The Callisto Protocol",
+        "title": "The Callisto Protocol™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgTheCallistoProtocol/baner.png",
+        "baner": "/imgTheCallistoProtocol/baner2.png",
+        "tabInfo": "/imgTheCallistoProtocol/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgTheCallistoProtocol/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgTheCallistoProtocol/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgTheCallistoProtocol/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgTheCallistoProtocol/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgTheCallistoProtocol/img.png" },
+          { "img": "/imgTheCallistoProtocol/img1.png" },
+          { "img": "/imgTheCallistoProtocol/img2.png" },
+          { "img": "/imgTheCallistoProtocol/img3.png" },
+          { "img": "/imgTheCallistoProtocol/img4.png" },
+          { "img": "/imgTheCallistoProtocol/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 16,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Skull and Bones",
+      "imgItem": "/images/skull.png",
+      "price": 65,
+      "year": "9/3/2023",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Skull and Bones",
+        "title": "Skull and Bones™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgSkullandBones/baner.png",
+        "baner": "/imgSkullandBones/baner2.png",
+        "tabInfo": "/imgSkullandBones/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgSkullandBones/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgSkullandBones/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgSkullandBones/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgSkullandBones/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgSkullandBones/img.png" },
+          { "img": "/imgSkullandBones/img1.png" },
+          { "img": "/imgSkullandBones/img2.png" },
+          { "img": "/imgSkullandBones/img3.png" },
+          { "img": "/imgSkullandBones/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 17,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "name": "Rising Storm 2: Vietnam",
+      "imgItem": "/images/gotham.png",
+      "price": 89,
+      "year": "21/10/2022",
+
+      "player": 2,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Rising Storm 2: Vietnam",
+        "title": "Rising Storm 2: Vietnam™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgGothamKnights/baner.png",
+        "baner": "/imgGothamKnights/baner2.png",
+        "tabInfo": "/imgGothamKnights/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgGothamKnights/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgGothamKnights/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgGothamKnights/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgGothamKnights/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgGothamKnights/img.png" },
+          { "img": "/imgGothamKnights/img1.png" },
+          { "img": "/imgGothamKnights/img2.png" },
+          { "img": "/imgGothamKnights/img3.png" },
+          { "img": "/imgGothamKnights/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 18,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Forspoken",
+      "imgItem": "/images/forspoken.png",
+      "price": 70,
+      "year": "30/1/2021",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Gotham Knights",
+        "title": "Gotham Knights™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgGothamKnights/baner.png",
+        "baner": "/imgGothamKnights/baner2.png",
+        "tabInfo": "/imgGothamKnights/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgGothamKnights/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgGothamKnights/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgGothamKnights/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgGothamKnights/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgGothamKnights/img.png" },
+          { "img": "/imgGothamKnights/img1.png" },
+          { "img": "/imgGothamKnights/img2.png" },
+          { "img": "/imgGothamKnights/img3.png" },
+          { "img": "/imgGothamKnights/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 19,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Call of Duty®: Modern Warfare® 2",
+      "imgItem": "/images/callofduty.png",
+      "price": 60,
+      "year": "12/10/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Call of Duty®: Modern Warfare® 2",
+        "title": "Call of Duty®: Modern Warfare® 2™(English/ Chinese/ Korean/ Thai Ver.)",
+        "replaceVideo": "/imgCallofDuty/baner.png",
+        "baner": "/imgCallofDuty/baner2.png",
+        "tabInfo": "/imgCallofDuty/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgCallofDuty/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgCallofDuty/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgCallofDuty/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgCallofDuty/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgCallofDuty/img.png" },
+          { "img": "/imgCallofDuty/img1.png" },
+          { "img": "/imgCallofDuty/img2.png" },
+          { "img": "/imgCallofDuty/img3.png" },
+          { "img": "/imgCallofDuty/img4.png" },
+          { "img": "/imgCallofDuty/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 20,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "God of War™ Ragnarök",
+      "imgItem": "/images/godofwar.png",
+      "price": 58,
+      "year": "9/11/2022",
+      "player": 1,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "God of War™ Ragnarök",
+        "title": "God of War™ Ragnarök™(English/ Chinese/ Korean/ Thai Ver.)",
+        "video": "/videoGame/god-of-war.mp4",
+        "baner": "/imgGodofWar/baner2.png",
+        "tabInfo": "/imgGodofWar/tabHorizzon.png",
+        "overview": [
+          {
+            "text": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
+            "textmain": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier that conceals mysterious new threats."
+          },
+          {
+            "text": "The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why."
+          },
+          {
+            "text": "It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past – all the while trying to stay one step ahead of a seemingly undefeatable new enemy."
+          }
+        ],
+        "features": [
+          {
+            "imgF": "/imgGodofWar/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgGodofWar/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgGodofWar/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgGodofWar/features3.png",
+            "textMain": "More than a boy with a bow",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          }
+        ],
+        "figure": [
+          {
+            "img": "/imgGodofWar/img.png",
+            "name": "Kratos"
+          },
+          {
+            "img": "/imgGodofWar/img1.png",
+            "name": "Atreus"
+          },
+          {
+            "img": "/imgGodofWar/img2.png",
+            "name": "Thor"
+          },
+          {
+            "img": "/imgGodofWar/img3.png",
+            "name": "Freya"
+          },
+          {
+            "img": "/imgGodofWar/img4.png",
+            "name": "Angrboda"
+          },
+          {
+            "img": "/imgGodofWar/img5.png",
+            "name": "Týr"
+          }
+        ],
+
+        "news": [
+          { "img": "/imgGodofWar/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 21,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Suicide Squad: Kill the Justice League",
+      "imgItem": "/images/suicide.png",
+      "price": 55,
+      "year": "5/8/2020",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Suicide Squad: Kill the Justice League",
+        "title": "Suicide Squad: Kill the Justice League™(English/ Chinese/ Korean)",
+        "replaceVideo": "/imgSuicideSquad/baner.png",
+        "baner": "/imgSuicideSquad/baner2.png",
+        "tabInfo": "/imgSuicideSquad/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgSuicideSquad/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgSuicideSquad/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgSuicideSquad/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgSuicideSquad/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgSuicideSquad/img.png" },
+          { "img": "/imgSuicideSquad/img1.png" },
+          { "img": "/imgSuicideSquad/img2.png" },
+          { "img": "/imgSuicideSquad/img3.png" },
+          { "img": "/imgSuicideSquad/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 22,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Resident Evil Village",
+      "imgItem": "/images/resident.png",
+      "price": 44,
+      "year": "7/5/2021",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Suicide Squad: Kill the Justice League",
+        "title": "Suicide Squad: Kill the Justice League™(English/ Chinese/ Korean)",
+        "replaceVideo": "/imgResidentEvil/baner.png",
+        "baner": "/imgResidentEvil/baner2.png",
+        "tabInfo": "/imgResidentEvil/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgResidentEvil/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgResidentEvil/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgResidentEvil/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgResidentEvil/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgResidentEvil/img.png" },
+          { "img": "/imgResidentEvil/img1.png" },
+          { "img": "/imgResidentEvil/img2.png" },
+          { "img": "/imgResidentEvil/img3.png" },
+          { "img": "/imgResidentEvil/img4.png" },
+          { "img": "/imgResidentEvil/img5.png" },
+          { "img": "/imgResidentEvil/img6.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Simulation",
+      "_id": 23,
+      "window": "fa-windows",
+      "edit": "EDITION",
+      "name": "Apex Legends™ PS5™ ",
+      "imgItem": "/images/apex.png",
+      "price": 40,
+      "year": "11/9/2021",
+      "player": 1,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Apex Legends™ PS5™",
+        "title": "Apex Legends™ PS5™™(English/ Korean)",
+        "replaceVideo": "/imgApex/baner.png",
+        "baner": "/imgApex/baner2.png",
+        "tabInfo": "/imgApex/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgApex/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgApex/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgApex/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgApex/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgApex/img.png" },
+          { "img": "/imgApex/img1.png" },
+          { "img": "/imgApex/img2.png" },
+          { "img": "/imgApex/img3.png" },
+          { "img": "/imgApex/img4.png" },
+          { "img": "/imgApex/img5.png" },
+          { "img": "/imgApex/img6.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Sports-Racing",
+      "_id": 24,
+
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "F1® Manager 2022",
+      "imgItem": "/images/manager.png",
+      "price": 50,
+      "year": "25/8/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "F1® Manager 2022",
+        "title": "F1® Manager 2022™(English)",
+        "replaceVideo": "/imgF1/baner.png",
+        "baner": "/imgF1/baner2.png",
+        "tabInfo": "/imgF1/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgF1/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgF1/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgF1/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgF1/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgF1/img.png" },
+          { "img": "/imgF1/img1.png" },
+          { "img": "/imgF1/img2.png" },
+          { "img": "/imgF1/img3.png" },
+          { "img": "/imgF1/img4.png" },
+          { "img": "/imgF1/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+
+    {
+      "category": "Sports-Racing",
+      "_id": 25,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "name": "Soul Hackers 2",
+      "imgItem": "/images/soul.png",
+      "price": 70,
+      "year": "2/2/2022",
+      "player": 1,
+      "ps": "Offline play enabled",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Soul Hackers 2",
+        "title": "Soul Hackers 2™(English)",
+        "replaceVideo": "/imgSoulHackers/baner.png",
+        "baner": "/imgSoulHackers/baner2.png",
+        "tabInfo": "/imgSoulHackers/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgSoulHackers/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgSoulHackers/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgSoulHackers/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgSoulHackers/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgSoulHackers/img.png" },
+          { "img": "/imgSoulHackers/img1.png" },
+          { "img": "/imgSoulHackers/img2.png" },
+          { "img": "/imgSoulHackers/img3.png" },
+          { "img": "/imgSoulHackers/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 26,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Genshin Impact",
+      "imgItem": "/images/genshin.png",
+      "price": 102,
+      "year": "21/2/2021",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Genshin Impact",
+        "title": "Genshin Impact™(English)",
+        "replaceVideo": "/imgGensinImpac/baner.png",
+        "baner": "/imgGensinImpac/baner2.png",
+        "tabInfo": "/imgGensinImpac/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgGensinImpac/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgGensinImpac/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgGensinImpac/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgGensinImpac/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgGensinImpac/img.png" },
+          { "img": "/imgGensinImpac/img1.png" },
+          { "img": "/imgGensinImpac/img2.png" },
+          { "img": "/imgGensinImpac/img3.png" },
+          { "img": "/imgGensinImpac/img4.png" },
+          { "img": "/imgGensinImpac/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Adventure",
+      "_id": 27,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Tiny Tina's Wonderlands",
+      "imgItem": "/images/tinytitna.png",
+      "price": 90,
+      "year": "25/3/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Tiny Tina's Wonderlands",
+        "title": "Tiny Tina's Wonderlands™(English)",
+        "replaceVideo": "/imgTinyTina/baner.png",
+        "baner": "/imgTinyTina/baner2.png",
+        "tabInfo": "/imgTinyTina/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgTinyTina/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgTinyTina/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgTinyTina/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgTinyTina/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgTinyTina/img.png" },
+          { "img": "/imgTinyTina/img1.png" },
+          { "img": "/imgTinyTina/img2.png" },
+          { "img": "/imgTinyTina/img3.png" },
+          { "img": "/imgTinyTina/img4.png" },
+          { "img": "/imgTinyTina/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 28,
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "base": "BASE GAME",
+      "name": "Cyberpunk 2077",
+      "imgItem": "/images/cyber.png",
+      "price": 80,
+      "year": "15/2/2022",
+      "player": 3,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Cyberpunk 2077",
+        "title": "Cyberpunk 2077",
+        "video": "/videoGame/Cyberpunk.mp4",
+        "baner": "/imgCyberpunk/baner2.png",
+        "tabInfo": "/imgCyberpunk/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgCyberpunk/features.png",
+            "textMain": "Explore the cybercity",
+            "text": "Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by nothing but unassuming robots and dangerous creatures."
+          },
+          {
+            "imgF": "/imgCyberpunk/features1.png",
+            "textMain": "Be stealthy",
+            "text": "Be nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this foreign world."
+          },
+          {
+            "imgF": "/imgCyberpunk/features2.png",
+            "textMain": "Befriend a drone",
+            "text": "Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo try to find a way out."
+          },
+          {
+            "imgF": "/imgCyberpunk/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgCyberpunk/img.png" },
+          { "img": "/imgCyberpunk/img1.png" },
+          { "img": "/imgCyberpunk/img2.png" },
+          { "img": "/imgCyberpunk/img3.png" },
+          { "img": "/imgCyberpunk/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgCyberpunk/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 29,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "name": "Inscryption",
+      "imgItem": "/images/inscry.png",
+      "price": 150,
+      "year": "30/8/2022",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Inscryption",
+        "title": "Inscryption™(English)",
+        "replaceVideo": "/imgInscryption/baner.png",
+        "baner": "/imgInscryption/baner2.png",
+        "tabInfo": "/imgInscryption/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgInscryption/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgInscryption/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgInscryption/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgInscryption/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgInscryption/img.png" },
+          { "img": "/imgInscryption/img1.png" },
+          { "img": "/imgInscryption/img2.png" },
+          { "img": "/imgInscryption/img3.png" },
+          { "img": "/imgInscryption/img4.png" },
+          { "img": "/imgInscryption/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Adventure",
+      "_id": 30,
+      "base": "BASE GAME",
+      "edit": "EDITION",
+      "name": "Far Cry 6",
+      "imgItem": "/images/farcry.png",
+      "price": 50,
+      "year": "8/2/2022",
+      "player": 4,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Far Cry 6",
+        "title": "Far Cry 6™(English)",
+        "replaceVideo": "/imgFarCry6/baner.png",
+        "baner": "/imgFarCry6/baner2.png",
+        "tabInfo": "/imgFarCry6/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgFarCry6/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgFarCry6/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgFarCry6/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgFarCry6/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgFarCry6/img.png" },
+          { "img": "/imgFarCry6/img1.png" },
+          { "img": "/imgFarCry6/img2.png" },
+          { "img": "/imgFarCry6/img3.png" },
+          { "img": "/imgFarCry6/img4.png" },
+          { "img": "/imgFarCry6/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 31,
+
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "OlliOlli World",
+      "imgItem": "/images/oli.png",
+      "price": 20,
+      "year": "27/1/2022",
+      "player": 2,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "OlliOlli World",
+        "title": "OlliOlli World™(English)",
+        "replaceVideo": "/imgOlliOlliWorld/baner.png",
+        "baner": "/imgOlliOlliWorld/baner2.png",
+        "tabInfo": "/imgOlliOlliWorld/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgOlliOlliWorld/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgOlliOlliWorld/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgOlliOlliWorld/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgOlliOlliWorld/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgOlliOlliWorld/img.png" },
+          { "img": "/imgOlliOlliWorld/img1.png" },
+          { "img": "/imgOlliOlliWorld/img2.png" },
+          { "img": "/imgOlliOlliWorld/img3.png" },
+          { "img": "/imgOlliOlliWorld/img4.png" },
+          { "img": "/imgOlliOlliWorld/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Adventure",
+      "_id": 32,
+      "base": "BASE GAME",
+      "edit": "EDITION",
+      "window": "fa-windows",
+      "mac": "fa-apple",
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "imgItem": "/images/tom.png",
+      "price": 10,
+      "year": "28/12/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Tom Clancy's Rainbow Six Siege",
+        "title": "Tom Clancy's Rainbow Six Siege™(English)",
+        "replaceVideo": "/imgTomClancy/baner.png",
+        "baner": "/imgTomClancy/baner2.png",
+        "tabInfo": "/imgTomClancy/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgTomClancy/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgTomClancy/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgTomClancy/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgTomClancy/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgTomClancy/img.png" },
+          { "img": "/imgTomClancy/img1.png" },
+          { "img": "/imgTomClancy/img2.png" },
+          { "img": "/imgTomClancy/img3.png" },
+          { "img": "/imgTomClancy/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 33,
+      "window": "fa-windows",
+
+      "edit": "EDITION",
+      "base": "BASE GAME",
+      "name": "Sifu",
+      "imgItem": "/images/sifu.png",
+      "price": 50,
+      "year": "8/2/2022",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Sifu",
+        "title": "Sifu™(English)",
+        "replaceVideo": "/imgSifu/baner.png",
+        "baner": "/imgSifu/baner2.png",
+        "tabInfo": "/imgSifu/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgSifu/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgSifu/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgSifu/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgSifu/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgSifu/img.png" },
+          { "img": "/imgSifu/img1.png" },
+          { "img": "/imgSifu/img2.png" },
+          { "img": "/imgSifu/img3.png" },
+          { "img": "/imgSifu/img4.png" },
+          { "img": "/imgSifu/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+
+    {
+      "category": "Strategy",
+      "_id": 34,
+      "base": "BASE GAME",
+      "name": "Destiny 2",
+      "imgItem": "/images/destiny.png",
+      "price": 50,
+      "year": "9/12/2020",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "Destiny 2",
+        "title": "Destiny 2™(English)",
+        "replaceVideo": "/imgDestiny2/baner.png",
+        "baner": "/imgDestiny2/baner2.png",
+        "tabInfo": "/imgDestiny2/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgDestiny2/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgDestiny2/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgDestiny2/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgDestiny2/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgDestiny2/img.png" },
+          { "img": "/imgDestiny2/img1.png" },
+          { "img": "/imgDestiny2/img2.png" },
+          { "img": "/imgDestiny2/img3.png" },
+          { "img": "/imgDestiny2/img4.png" },
+          { "img": "/imgDestiny2/img5.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Strategy",
+      "_id": 35,
+      "base": "BASE GAME",
+      "edit": "EDITION",
+      "name": "VALKYRIE ELYSIUM",
+      "imgItem": "/images/vankyre.png",
+      "price": 50,
+      "year": "9/12/2020",
+      "player": 1,
+      "ps": "PS Camera optional",
+      "imgFQA": "/imgInfoGame/FQAimageHorizon.png",
+      "warring": "Players who purchase the PlayStation®4 version can upgrade for free to the PlayStation®5 version. Please note that players who purchase the physical disc version of the game cannot upgrade on t he PS5™ Digital Edition, as it does not have a disc drive. Players who purchase the digital version for PS5™ on the PlayStation™Store can also download the PS4™ at no additional cost. In all cases, registration to the PlayStation™Network , sufficient storage space, and a fast internet connection (including data transfer fees) are required.",
+      "detail": {
+        "nameGame": "VALKYRIE ELYSIUM",
+        "title": "VALKYRIE ELYSIUM™(English)",
+        "replaceVideo": "/imgValkyre/baner.png",
+        "baner": "/imgValkyre/baner2.png",
+        "tabInfo": "/imgValkyre/tabHorizzon.png",
+
+        "features": [
+          {
+            "imgF": "/imgValkyre/features.png",
+            "textMain": "Brave an expansive open world",
+            "text": "Discover distant lands, new enemies, rich cultures and striking characters."
+          },
+          {
+            "imgF": "/imgValkyre/features1.png",
+            "textMain": "A majestic frontier",
+            "text": "Explore the lush forests, sunken cities and towering mountains of a far-future America."
+          },
+          {
+            "imgF": "/imgValkyre/features2.png",
+            "textMain": "Confront new dangers",
+            "text": "Engage in strategic battles against enormous machines and mounted human enemies by using weapons, gear and traps crafted from salvaged parts."
+          },
+          {
+            "imgF": "/imgValkyre/features3.png",
+            "textMain": "Unravel startling mysteries",
+            "text": "Uncover the secret behind Earth's imminent collapse and unlock a hidden chapter in the ancient past... one that will change Aloy forever."
+          }
+        ],
+        "noFigure": [
+          { "img": "/imgValkyre/img.png" },
+          { "img": "/imgValkyre/img1.png" },
+          { "img": "/imgValkyre/img2.png" },
+          { "img": "/imgValkyre/img3.png" },
+          { "img": "/imgValkyre/img4.png" }
+        ],
+        "news": [
+          { "img": "/imgInfoGame/" },
+          {
+            "title": "Level up your look with the Horizon Forbidden West collection on ASOS"
+          },
+          {
+            "text": "While Aloy’s in-game outfits are aimed at her protection and survival, our unique partnership with ASOS is focused on ready-to-wear comfort for our fans. This unisex collection of gaming and streetwear apparel features a variety of joggers, hoodies and shirts, which work as either co-ords or individual pieces."
+          }
+        ]
+      }
+    }
+  ],
+  "imgBaner": [
+    { "id": 20, "img": "/abstract01.png", "textImg": "/images/logoWOW.png" },
+    { "id": 15, "img": "/abstract02.png", "textImg": "/images/textBaner.png" },
+    { "id": 35, "img": "/abstract03.png", "textImg": "/images/textBaner2.png" },
+    { "id": 14, "img": "/abstract04.png", "textImg": "/images/textBaner1.png" },
+    { "id": 6, "img": "/abstract05.png", "textImg": "/images/textBaner3.png" }
+  ],
+  "hotgame": {
+    "_id": 20,
+    "base": "BASE GAME",
+    "name": "Horizon Forbidden West™",
+    "title": "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go, available 9th November on PS4 & PS5",
+    "imgItem": "./images/hotgame.png",
+    "childImgItem": "./images/childGamehot.png",
+    "year": 2022
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "img": "/images/imgblog.png",
+      "title": "God of War Ragnarök – Hands-on gameplay report",
+      "text": "Our return to Midgard and the rest of the nine realms is nearly here. God of War Ragnarök launches on PS5 and PS4 on November 9, and Ive had the lucky opportunity to scout ahead and go hands on with the PS5 version of Kratos and Atreus continuing journey. No big story spoilers lie ahead"
+    },
+    {
+      "id": 2,
+      "img": "/images/imgblog1.png",
+      "title": "Share of the Week  – Ghostwire: Tokyo - for ps4/ps5 PC",
+      "text": "Last week, we asked you to share the terrifying yokai of Ghostwire: Tokyo using #PSshare #PSBlog. Here are this week’s spooky shares: Gurararala shares a headless schoolgirl dashing through the street. VrPhotoGamess shares faceless suited men with broken umbrellas skulking around a green-lit hospital. snkn_shito shares Akito sending a round red blast of energy from"
+    },
+    {
+      "id": 3,
+      "img": "/images/imgblog2.png",
+      "title": "God of War Ragnarök Animated Family Portraits highlight 5 key relationships",
+      "text": " Since the Family Portrait series began five weeks ago, we’ve had the great pleasure of showcasing works created by a fantastic group of artists. These portraits showcase key relationships that are foundational to God of War Ragnarök. Now that the series has wrapped, we’ve put together a gallery featuring all five works on the God"
+    },
+    {
+      "id": 4,
+      "img": "/images/imgblog3.png",
+      "title": "New Resident Evil 4 trailer, Resident Evil Village Gold Edition demo and more revealed in today’s Resident Evil Showcase",
+      "text": "At Santa Monica Studio, one our guiding phrases is “we’re fans of our fans.” Whether it’s a reaction to a trailer, a deep-dive lore video, or cosplay – knowing that there is an audience that appreciates all the details in our work motivates us to create something worthy of God of War fans. Cosplayers are"
+    },
+    {
+      "id": 5,
+      "img": "/images/imgblog4.png",
+      "title": "From Concept Art to Cosplay: Creating Kratos and Atreus’ new looks for God of War Ragnarök",
+      "text": "Greetings everyone! I’m happy to announce that our newest trailer—Ambition—is now live. Rather than focusing on action as we did in our last reveal, this time we wanted to give the world a more in-depth look at Final Fantasy XVI’s lore and its rich cast of characters—with the Dominants front and center. The flames of"
+    },
+    {
+      "id": 6,
+      "img": "/images/imgblog5.png",
+      "title": "New Final Fantasy XVI “Ambition” trailer offers an in-depth look into the characters and world of Valisthea",
+      "text": "What a beautiful day! A beautiful day to surrender to the void… or, as we at Media Molecule have come to know it, The Land Of Lost Dreams. That’s right: this year’s Halloween event, All Hallows’: The Land of Lost Dreams, is available to play in Dreams right now. Is there a better way to"
+    },
+    {
+      "id": 7,
+      "img": "/images/imgblog6.png",
+      "title": "Visit All Hallows’: The Land of Lost Dreams today",
+      "text": "What a beautiful day! A beautiful day to surrender to the void… or, as we at Media Molecule have come to know it, The Land Of Lost Dreams. That’s right: this year’s Halloween event, All Hallows’: The Land of Lost Dreams, is available to play in Dreams right now. Is there a better way to"
+    },
+    {
+      "id": 8,
+      "img": "/images/imgblog7.png",
+      "title": "11 things you must know about Star Ocean The Divine Force",
+      "text": "Star Ocean The Divine Force will soon touch down on PS5 and PS4! This action-packed science-fiction RPG presents a bold new vision for the beloved RPG series, with a powerful story, innovative traversal mechanics, and a combat system that’s just… *chef’s kiss. That said, we suspect that some of you may still be wondering what"
+    },
+    {
+      "id": 9,
+      "img": "/images/imgblog8.png",
+      "title": "River City Girls 2: New Marian gameplay and character design details revealed",
+      "text": "Hi, I’m Bannon Rudis. I’m one of the directors over at WayForward. WayForward does those Shantae and River City Girls games, among many other things. I have personally been making River City games for almost a decade now alongside Arc System Works. I started by reverse-engineering River City sprites and animations and trying my hardest"
+    },
+    {
+      "id": 10,
+      "img": "/images/imgblog9.png",
+      "title": "Genshin Impact Version 3.2: Akasha pulses and the Kalpa Flame rises in new update",
+      "text": "Hello, Travelers! Your Genshin Impact dev team is here to meet you again. After two months in the Nation of Wisdom, the next update is now confirmed to arrive on November 2. With Version 3.2 “Akasha Pulses, the Kalpa Flame Rises,” we will finally come to the very moment where Sumeru’s fate will be decided."
+    }
+  ]
+}
