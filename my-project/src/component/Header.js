@@ -1,53 +1,46 @@
-import { Link, Outlet } from "react-router-dom";
-import Footer from "./Footer";
-import React, { useState, useRef, useEffect } from "react";
 import SearchIcon from "@mui/icons-material/Search";
-import "../AppCss/App.css";
-import Headroom from "../../src/index";
-import Typography from "@mui/material/Typography";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
-import AccountCircle from "@mui/icons-material/AccountCircle";
-import Switch from "@mui/material/Switch";
-import FormControlLabel from "@mui/material/FormControlLabel";
-import FormGroup from "@mui/material/FormGroup";
-import MenuItem from "@mui/material/MenuItem";
 import Menu from "@mui/material/Menu";
+import MenuItem from "@mui/material/MenuItem";
+import "animate.css/animate.min.css";
+import { getAuth, signOut } from "firebase/auth";
+import React, { useEffect, useRef, useState } from "react";
+import { useSelector } from "react-redux";
+import { Link } from "react-router-dom";
+import { ItemsFilter, MainListItem } from "../css/cssHeader";
+import "../AppCss/App.css";
 import {
   DflexAll,
   Img,
-  Logo,
   ListMenu,
-  Img2,
-  Animate,
+  Logo,
   RotateInDiv,
   RotateOutDiv,
 } from "../css/cssComponent";
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import { CSSTransitionGroup } from "react-transition-group";
-import "animate.css/animate.min.css";
-import { useSelector } from "react-redux";
-import {
-  getAuth,
-  signOut,
-  GoogleAuthProvider,
-  getRedirectResult,
-} from "firebase/auth";
+import { Box, TextField } from "@mui/material";
+
 const Header = () => {
   const [sticky, setSticky] = useState({ isSticky: false, offset: 0 });
+  const [showInput, setShowInput] = useState(false);
+  const [valueInput, setValueInput] = useState("");
+
   const { cart } = useSelector((state) => state.carts);
   const { current } = useSelector((state) => state.products);
   const [auth, setAuth] = React.useState(true);
   const [anchorEl, setAnchorEl] = React.useState(null);
-
-  const handleClose2 = () => {
-    setAnchorEl(null);
-  };
+  const { products } = useSelector((state) => state.products);
 
   const handleMenu = (event) => {
     setAnchorEl(event.currentTarget);
   };
-
+  const handleSearchHeader = () => {
+    console.log(showInput);
+    setShowInput(!showInput);
+  };
+  const handleOnchange = (e) => {
+    setValueInput(e.target.value);
+  };
   const handleClose = () => {
     const auth = getAuth();
 
@@ -60,6 +53,7 @@ const Header = () => {
       });
     window.location.reload();
   };
+  console.log(current);
   // handle scroll event
   const elemenScroll = useRef();
   var scrollableElement = document.body;
@@ -74,7 +68,7 @@ const Header = () => {
       } else if (checkScrollDirectionIsUp == 0) {
         elemenScroll.current.style.top = "0px";
       } else {
-        elemenScroll.current.style = "transition-delay:0.5s";
+        elemenScroll.current.style = "transition-delay:2.4s";
 
         elemenScroll.current.style.top = "-70px";
       }
@@ -88,7 +82,13 @@ const Header = () => {
   });
   const src = "../images/avatar.png";
   const src2 = "../images/avatar2.png";
+  if (products === 0) return <h1>loading...</h1>;
 
+  const dataFilter =
+    products.items && products.items.filter((a) => a.name.includes(valueInput));
+  const handleClose2 = () => {
+    setAnchorEl(null);
+  };
   return (
     <div className="main-body">
       <DflexAll
@@ -111,7 +111,7 @@ const Header = () => {
             Home
           </Link>
 
-          <Link to="listItem" className="items-menu">
+          <Link to="game" className="items-menu">
             Game
           </Link>
 
@@ -129,6 +129,65 @@ const Header = () => {
         </ListMenu>
 
         <DflexAll className="user">
+          {showInput === true ? (
+            <div className="iput-header">
+              <MainListItem>
+                <div className="filter">
+                  <Box
+                    sx={{
+                      maxWidth: "100%",
+                      position: "relative",
+                    }}
+                  >
+                    <input
+                      onChange={handleOnchange}
+                      value={valueInput}
+                      fullWidth
+                      label="search"
+                      id="fullWidth"
+                      placeholder="search"
+                    />
+
+                    {valueInput.length > 0 ? (
+                      <button
+                        onClick={() => {
+                          setValueInput("");
+                        }}
+                        className="btn-clear"
+                      >
+                        <i className="fa-solid fa-xmark"></i>
+                      </button>
+                    ) : (
+                      ""
+                    )}
+                  </Box>
+                </div>
+                {valueInput.length > 0 ? (
+                  <ItemsFilter>
+                    <div className="box-filter">
+                      <ul>
+                        {dataFilter.map((a, b) => {
+                          return (
+                            <Link to={`infoGame/${a._id}`}>
+                              <li>
+                                {" "}
+                                <img className="img-filter" src={a.imgItem} />
+                                {a.name}
+                              </li>
+                            </Link>
+                          );
+                        })}
+                      </ul>
+                    </div>
+                  </ItemsFilter>
+                ) : (
+                  ""
+                )}
+              </MainListItem>
+            </div>
+          ) : (
+            ""
+          )}
           {current.name ? (
             <div className="user-gg">
               <div>
@@ -143,7 +202,7 @@ const Header = () => {
                       color="inherit"
                     >
                       <div>
-                        <img src={current?.photoUrl} />
+                        <img src={current.photoUrl} />
                         <div className="name-user-gg">{current?.name}</div>
                       </div>
                     </IconButton>
@@ -176,7 +235,12 @@ const Header = () => {
           )}
 
           <div className="icon-search">
-            {<SearchIcon className="icon-search-child" />}
+            {
+              <SearchIcon
+                onClick={handleSearchHeader}
+                className="icon-search-child"
+              />
+            }
           </div>
           <Link className="icon-cart" to="cart">
             {<ShoppingCartIcon />}
