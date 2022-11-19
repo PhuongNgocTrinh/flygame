@@ -8,6 +8,10 @@ import {
 } from "react-animations";
 
 export const DflexAll = styled.div`
+  .iput-header {
+    position: absolute;
+    right: 18%;
+  }
   &.nav {
     padding: 0 60px;
     height: 70px;
@@ -27,6 +31,10 @@ export const DflexAll = styled.div`
   &.user .icon-search {
     /* margin-left: 20px; */
     margin-right: 20px;
+    :hover .css-i4bv87-MuiSvgIcon-root {
+      color: #2871c6;
+      cursor: pointer;
+    }
   }
   &.user .icon-search .icon-search-child {
     font-size: 30px;
@@ -35,6 +43,9 @@ export const DflexAll = styled.div`
   .icon-cart {
     color: black;
     position: relative;
+    :hover {
+      color: #2871c6;
+    }
   }
   .icon-cart .count {
     position: absolute;
